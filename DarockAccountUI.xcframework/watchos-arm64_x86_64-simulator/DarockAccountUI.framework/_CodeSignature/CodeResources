@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		hW3rQMuFjgEW6my8i3w6sDLGKl0=
+		SVEpqaLw+/VSaTLNNyG/yBFr6O8=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		7SoZXK4sS8NsnVkO2BDTz94KHcs=
+		/+3a+d6Qbyn+Op8aZcZH6HvSoGk=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		ry+sRRacr0VspL+NqAAmnDJshxg=
+		RLX5p6iUoLBpKKRLqY3LjaImuTI=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		/7y2rW8iupKu/C7E2Uw8dvF2ebc=
+		blVYjFfGkySA4J7OJlsSFdWbSsU=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ByFDQAqm7/DodmSNSH6IC6C/ER0=
+		Zzzd8TXdDYSy3BHFyu7Tnc83f6E=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		DD+kYywrH7NLFv2RxAxsQQHQP1Y=
+		sZcqufEEsROxBemJwq927oKTlv4=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		ZrsueuGSAifvHnAEDK+NpXD5+RQ=
+		P8fXrGDI7vbyleH9Z7gijH8mDz0=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		w9CulCbCqRBV1nBR0ir0H2lDqBM=
+		YZMN/Dk17TyZLhMdVjdsi9Bif1w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zYIsu19y655RMjma9Lob5Kvv6I2+1duYA58PwjUSvpE=
+			FbvHHRsqjVwN3BNOVfNqYmO7rNkupRCSBIZ1GckQmnI=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r4nRHBVgJPjZIrUmieUZrkqa1jd8M4UHigCy1lMR4NQ=
+			qHXaZUExmTBuHp9+OARjBXkInkl7HvsXUbq6zQDzdVg=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -108,7 +108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0QlCCv2ebooSVYTZX4stOqlyRKCWe98fPg3Rcpe8iR0=
+			Gi23HRCFFMCkFUcJ+TiaQ7zmIbZBCOgx1PpasWHJSLw=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -122,14 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TIxdBZFd/j4Z16UlwCasZ/Yi3q3M9EtPQ5rpAoiv8oo=
+			paI+TYH2nanVMN+85XjkPqdXBxutllb1dR+Q3jsdVTw=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLyU6i6P9jzsgBzk2Wy8cG7nsaNTucfjCzD6OHrwfBA=
+			parj1P69BsFRDzsHZv5IoGVx+Iw1o4Ug9miSOrmipKM=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fRV4J6DJ8fVLEZUzampiTxIHhyvEm5aGiJ9BQLLjnBU=
+			kP8KuTSs8JsvyCHabcAFwTdtR9LbPQ3MLLEjry1jtG0=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -157,14 +157,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXYPTFIwh46OotKg+oxNlP7ffn4Qaj6/ZTBxsISMxVA=
+			kEJX5T/Czh9DP+Aj2xOPOhhJrIV8SQvYepYIJ01YaaE=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0aJ79SDPvmB3NxFMgbZrRNGUgu1UsKUHTU4y76Tdoc=
+			wUa47TpmZYu4AXlMTjhT8kloRfQm6aS6dUWQkF1CLSU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

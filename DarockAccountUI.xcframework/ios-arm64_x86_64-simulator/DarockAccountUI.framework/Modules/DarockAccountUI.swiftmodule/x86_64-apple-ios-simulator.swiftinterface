@@ -27,7 +27,7 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor @preconcurrency internal var passwordProcessorForSensitiveOperations: ((() -> Swift.Void) -> SwiftUICore.AnyView)?
   @usableFromInline
   @_Concurrency.MainActor @preconcurrency internal var darockCloudView: (() -> SwiftUICore.AnyView)?
-  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public init(username: Swift.String = "")
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
@@ -39,6 +39,11 @@ extension DarockAccountUI.DAUIAccountManagementView {
   @inlinable @_Concurrency.MainActor @preconcurrency public func darockAccountPasswordProcessorForSensitiveOperations(@SwiftUICore.ViewBuilder _ processor: @escaping (() -> Swift.Void) -> some View) -> DarockAccountUI.DAUIAccountManagementView {
         var mutable = self
         mutable.passwordProcessorForSensitiveOperations = { completion in AnyView(processor(completion)) }
+        return mutable
+    }
+  @inlinable @_Concurrency.MainActor @preconcurrency public func darockAccountCloudView(@SwiftUICore.ViewBuilder _ view: @escaping () -> some View) -> DarockAccountUI.DAUIAccountManagementView {
+        var mutable = self
+        mutable.darockCloudView = { AnyView(view()) }
         return mutable
     }
 }

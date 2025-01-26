@@ -31,14 +31,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UMTNcwDSlx6MJxDfUL4G4VyIvyPaxxb6xAkc1JRs1EQ=
+			09KqApswNtA0KM7a89Z0+qGpFd5jM6fjPYs1uctcBb0=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vegUBBBVu5QYIPYBjL6Zq0G+Y3G1D8ayqTG6DlzzJMI=
+			FD6s+XLA89dnhVhfAxERel4u/D4xU+U99y9znzdRhqI=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -52,7 +52,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LMTJf0Vx5h4Om4USg/DKJtCAJIFZWrIirP7fwoQuFU=
+			aqxqRSkdkhdYjUnguLdnWzaax6Psni9hC+oUs4fafC0=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -66,14 +66,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bJm0/6nU7dzWcTv1rlpIVLg/xhT15v7VIxAEtlccBFI=
+			zlOjMaNtMcOyPqGxwyZQqaaghkCBG8nbelJlEanq1H8=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rhGKBKRAE8JC7tM9+cinnKwAu/yXtf8YWDQYwX2yH5k=
+			+/Vb5cOJLOZpnoJnIDEwOScF5vRMFig7+tD9/t9CZb8=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9XhMfJp2jYSCET6hOxVijZQeNOX7hLGvDMQz9fnUOk0=
+			rAaYZsdI/HqKmCFw9u0jUTiOBhsk/4P/blcRmn3SH8k=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -101,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sEZdVxeOcyBtqg/K8V56ttu3rSAb908JleT1SzroOTM=
+			pGzv50qOiG8QugOW/VvNCavar2YowxcFLBH66t7knoE=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMPXhNMnuZuSyibRV5YG+I0ciyuMCa46alvvRqM7AvQ=
+			CvpUjxH9/e3gUZSzFmTNPlIGBZiQXigIN8hY6dGQfTw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

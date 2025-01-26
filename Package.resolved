@@ -1,0 +1,42 @@
+{
+  "originHash" : "9584e367db23ffd9401e8846ce99396197e17e1b861528f5f06d3dd3afb51460",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "darockfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Darock-Studio/DarockFoundation",
+      "state" : {
+        "branch" : "main",
+        "revision" : "914678eb6936130582e5e398754e2079c1f669a4"
+      }
+    },
+    {
+      "identity" : "notifkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Darock-Studio/NotifKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b8c26ce4c4ce36845c2f30fbdbaab392f6065633"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON",
+      "state" : {
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}

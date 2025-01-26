@@ -1,0 +1,66 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-watchos10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DarockAccountUI
+import CoreTransferable
+@_exported import DarockAccountUI
+import DarockFoundation
+import Foundation
+import NotifKit
+import PhotosUI
+import Swift
+import SwiftUI
+import _Concurrency
+import _PhotosUI_SwiftUI
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_Concurrency.MainActor @preconcurrency public struct DAUILoginView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_spi(_internal) @_Concurrency.MainActor @preconcurrency public init(requireUserGroups: [Swift.String])
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s15DarockAccountUI13DAUILoginViewV4bodyQrvp", 0) __
+}
+@available(macOS, unavailable)
+@_Concurrency.MainActor @preconcurrency public struct DAUIAccountManagementView : SwiftUICore.View {
+  @usableFromInline
+  @_Concurrency.MainActor @preconcurrency internal var passwordProcessorForSensitiveOperations: ((() -> Swift.Void) -> SwiftUICore.AnyView)?
+  @usableFromInline
+  @_Concurrency.MainActor @preconcurrency internal var darockCloudView: (() -> SwiftUICore.AnyView)?
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  @available(macOS, unavailable)
+  public typealias Body = @_opaqueReturnTypeOf("$s15DarockAccountUI25DAUIAccountManagementViewV4bodyQrvp", 0) __
+}
+@available(macOS, unavailable)
+extension DarockAccountUI.DAUIAccountManagementView {
+  @inlinable @_Concurrency.MainActor @preconcurrency public func darockAccountPasswordProcessorForSensitiveOperations(@SwiftUICore.ViewBuilder _ processor: @escaping (() -> Swift.Void) -> some View) -> DarockAccountUI.DAUIAccountManagementView {
+        var mutable = self
+        mutable.passwordProcessorForSensitiveOperations = { completion in AnyView(processor(completion)) }
+        return mutable
+    }
+}
+@available(macOS, unavailable)
+@_Concurrency.MainActor @preconcurrency public struct DAUIRegisterView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  @available(macOS, unavailable)
+  public typealias Body = @_opaqueReturnTypeOf("$s15DarockAccountUI16DAUIRegisterViewV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor @preconcurrency public struct DAUIInfoHeaderView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(account: Swift.String, accountToken: Swift.String, showUserGroups: Swift.Bool = true)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s15DarockAccountUI18DAUIInfoHeaderViewV4bodyQrvp", 0) __
+}
+extension DarockAccountUI.DAUILoginView : Swift.Sendable {}
+@available(macOS, unavailable)
+extension DarockAccountUI.DAUIAccountManagementView : Swift.Sendable {}
+@available(macOS, unavailable)
+extension DarockAccountUI.DAUIRegisterView : Swift.Sendable {}
+extension DarockAccountUI.DAUIInfoHeaderView : Swift.Sendable {}

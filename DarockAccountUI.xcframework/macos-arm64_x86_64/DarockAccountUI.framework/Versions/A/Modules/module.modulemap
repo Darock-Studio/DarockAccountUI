@@ -1,0 +1,6 @@
+framework module DarockAccountUI {
+  umbrella header "DarockAccountUI.h"
+  export *
+
+  module * { export * }
+}

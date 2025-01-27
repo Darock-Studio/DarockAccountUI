@@ -686,6 +686,6 @@ relocations:
   - { offset: 0x8FFDE, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI18DAUIInfoHeaderViewV4bodyQrvgyycfU3_ySS_SbtcfU0_', symObjAddr: 0x4A24, symBinAddr: 0x339C0, symSize: 0x450 }
   - { offset: 0x90ADD, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI18DAUIInfoHeaderViewV05SwiftC00F0AadEP4body4BodyQzvgTW', symObjAddr: 0x4E94, symBinAddr: 0x33E10, symSize: 0x4 }
   - { offset: 0x90C93, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI15frameworkBundle_WZ', symObjAddr: 0x0, symBinAddr: 0x372E0, symSize: 0x98 }
-  - { offset: 0x90CB7, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI15frameworkBundleSo8NSBundleCvp', symObjAddr: 0x1C60, symBinAddr: 0x52A98, symSize: 0x0 }
+  - { offset: 0x90CB7, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI15frameworkBundleSo8NSBundleCvp', symObjAddr: 0x1CA8, symBinAddr: 0x52A98, symSize: 0x0 }
   - { offset: 0x90CC5, size: 0x8, addend: 0x0, symName: '_$s15DarockAccountUI15frameworkBundle_WZ', symObjAddr: 0x0, symBinAddr: 0x372E0, symSize: 0x98 }
 ...

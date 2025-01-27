@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		c6LiD2CVjrb8f+KosFiQiUEMNag=
+		ZA9A8rnKswlA8g0PYFD38N/93Lw=
 		</data>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
@@ -31,14 +31,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2jIP2KPAeNvp1o22HnWEfOMu0Y/eAljsY3jRMtezYAg=
+			5q1gvidDoz7LXHDE5LdweB1P655L7exZXr31t/duC1s=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VO9jfGcYkwwCw3lAnGNDu6UVV26sF8s1fyVkAIOf7GQ=
+			t0jP/7u5f+Q3ML3TVC2mYa6dRWao7mwNqcJskoIU6Wo=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -52,28 +52,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hZdmYLj1oHDPfmEeAIP5JrJq6+Nak2PoTYdC5jEzeQ4=
+			5u76GxsgM5+KseUL1id5syfJxx0p59fny6bgVMJ+g3w=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f6O3EblmJMzNFEqI0XvVgENmfiF19aBzf/5lpIMZCBI=
+			p/yDuXOU2CdmT1o2HMD3KNLU/bAFQV8MHu0B2qe7R4g=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mH3jiR7oHXx7nnPQnm6oEce0VcuFbz7RM0AVv0rrsnw=
+			bmL4jVGhVmdp6cPvXa2aUMFew2bmFoQ+8SiiRzNpsy0=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PSAfBronmOooC3Woc+IbznKgE+eUhgDYMNtBjPFfEFY=
+			A1RsALhzkMLLQU1uH45nLCJrEDpxwsyxFOJE+crR+Wo=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -87,28 +87,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1gU13ryVZXCVNZPYGPrbapZuJu1yvLtdYm+4w4ldZQ=
+			Q1unQCIcetBAJxsWG0/7srhRa1twlqcYTb/GITmjy4U=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AJZhmI3Zy8rxFz+iI52y7Di9E1n4R2Mgu/JWSW9s4fU=
+			hsqsjv56fJZXuxf9Fl9rs/HrI1CRlhZcGXgtWc+CrYA=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i1Bcvau6Qy0OGMC//9Hokaakx7qlDB8OpCncGOJrbbY=
+			iOWDd+888u0S9A0K3zhZDg56mqvZ6iwASrlRRFLT5AY=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKcx6Pt6Pjml8GfiH+qANdLVQEsDRFNypNj0f0UNTgY=
+			jX2YOqlAd78GP5eItfAzk0zCeZLOE6gmgZQYl57H8L8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4AFxGK5QODSFwv2yjDUmPEOChbcVUWtNW9FCJtCD6eA=
+			k1jqbZM7QdndIbo9VjKkmTYGgzhLkB5a1OfD35TBZNE=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>

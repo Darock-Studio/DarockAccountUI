@@ -22,20 +22,20 @@
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
-			<string>DarockAccountUI.framework/DarockAccountUI</string>
+			<string>DarockAccountUI.framework/Versions/A/DarockAccountUI</string>
 			<key>DebugSymbolsPath</key>
 			<string>dSYMs</string>
 			<key>LibraryIdentifier</key>
-			<string>watchos-arm64_arm64_32</string>
+			<string>macos-arm64_x86_64</string>
 			<key>LibraryPath</key>
 			<string>DarockAccountUI.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
-				<string>arm64_32</string>
+				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>watchos</string>
+			<string>macos</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
@@ -58,20 +58,20 @@
 		</dict>
 		<dict>
 			<key>BinaryPath</key>
-			<string>DarockAccountUI.framework/Versions/A/DarockAccountUI</string>
+			<string>DarockAccountUI.framework/DarockAccountUI</string>
 			<key>DebugSymbolsPath</key>
 			<string>dSYMs</string>
 			<key>LibraryIdentifier</key>
-			<string>macos-arm64_x86_64</string>
+			<string>watchos-arm64_arm64_32</string>
 			<key>LibraryPath</key>
 			<string>DarockAccountUI.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
-				<string>x86_64</string>
+				<string>arm64_32</string>
 			</array>
 			<key>SupportedPlatform</key>
-			<string>macos</string>
+			<string>watchos</string>
 		</dict>
 		<dict>
 			<key>BinaryPath</key>

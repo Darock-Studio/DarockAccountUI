@@ -20,15 +20,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/DarockFoundation.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			/AbyqVItLUoKENPCkizL/cPWXYs=
-			</data>
-			<key>requirement</key>
-			<string>identifier "com.darock.DarockFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Yuxuan Chen (8CZ4JT4F3M)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
-		</dict>
 		<key>Headers/DarockAccountUI.h</key>
 		<dict>
 			<key>hash2</key>

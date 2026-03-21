@@ -6,19 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		7wc9lCrFSn92EX4cJaebYpsRWPg=
-		</data>
-		<key>Frameworks/DarockFoundation.framework/DarockFoundation</key>
-		<data>
-		TkDISR1q+3BeiC0kkuUJ2GxY7g8=
-		</data>
-		<key>Frameworks/DarockFoundation.framework/Info.plist</key>
-		<data>
-		w7Hwdc72WSwQCT8JrI5De/jzevk=
-		</data>
-		<key>Frameworks/DarockFoundation.framework/_CodeSignature/CodeResources</key>
-		<data>
-		ZcoZIk+ekFUv/nfxms9SylLZ+lk=
+		j8nmy+ewE4VUzxIJT9vct27RMGE=
 		</data>
 		<key>Headers/DarockAccountUI.h</key>
 		<data>
@@ -92,27 +80,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/DarockFoundation.framework/DarockFoundation</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8ONvo0FySF8SdBme2FFirNslhgz/2Dbol+1NmwcRPcY=
-			</data>
-		</dict>
-		<key>Frameworks/DarockFoundation.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ysWHXAjWGUg1KKScko3Hk/NdDEeXXAm9Wz/whoK0Svo=
-			</data>
-		</dict>
-		<key>Frameworks/DarockFoundation.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			krfU1B93TKTzaxV+mAMJJLL2LZrXas/h8hSjG7pFI6w=
-			</data>
-		</dict>
 		<key>Headers/DarockAccountUI.h</key>
 		<dict>
 			<key>hash2</key>

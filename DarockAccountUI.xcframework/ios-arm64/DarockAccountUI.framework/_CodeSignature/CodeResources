@@ -4,21 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		YH/KaxQhMWcs0E7oxlozAn+7+G4=
-		</data>
 		<key>Headers/DarockAccountUI.h</key>
 		<data>
 		l3OxiztoBPrCyk7iCDUje1k9jrw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VOblAZhqtfsGpvtWk0Q5cB5v+WE=
+		BoRt7eIf5nKIwEeLvUpeYJa7ffk=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		d3+38F2tYozUPAcAY9X15wEzOIU=
+		utwwgwWZ6UjjD/zdaukrHbMTd5g=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,19 +22,19 @@
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		xNUQZtvZTxYlK58Ov7CxnzkH6nA=
+		RIqhDkpBe05XkH1Px0bNCZ4pgSg=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		bpn7A/pNutNFCRp5v00x49mSWwk=
+		3+PsHoU/kjErx6SlqDY4JABeeFg=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Q19+NuM8iBkuRDwctqh+6a5sNKY=
+		g0RVk3iPKRFx2q74gMBh4E1x2Hs=
 		</data>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1Bq4AenVNw//rw7LS04VQNnu8kg=
+		hCoNsZxQUbqkg+q4cyj/h8DLxoI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u38+GCDvNeZerpyGJvBbkgWQDtA7KGDkuzJ6bvDPYs8=
+			P3uzJHVFdNAxWVB8hnk3Z64no8s46/T/2d8/0HUFx4o=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -81,28 +77,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iKU+Gh669q+Au+BwVKZSeqkUkU2mMjE1COHeRXteYUU=
+			ZV7jto6x8djdHH8FWDEGJS3sXQ1mBv9c3ct8tqhW3WU=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			udaL8pGMXvAseN0WGrT0p8P8VxMlbhXUpLgPBp/x+aI=
+			kaiQjmb+YvpAcKHVz0DekeLFLdga21kDrFCBIhGnOVI=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4gFYAP2p15JYVMSad9gIa11IeXAKhxMmham/NjJzJ/8=
+			dHaBfY6yucVEH8N1WFX1xyng3nd5HLHsPmkVleKWXoE=
 			</data>
 		</dict>
 		<key>Modules/DarockAccountUI.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CJ4VQvgfCN/Pp6LIEVq7z6QIgWUFQ/OeGrlNMews4/k=
+			qnTBFiFxqs6uc9yVs2QF5sj7ft6sJ7zfKpxUfwrrgLY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

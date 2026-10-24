@@ -9,8 +9,8 @@ let package = Package(
         .library(name: "DarockAccountUI", targets: ["DarockAccountUI", "_DarockAccountUIDependenciesWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Darock-Studio/DarockFoundation", branch: "main"),
-        .package(url: "https://github.com/Darock-Studio/NotifKit", branch: "main")
+        .package(url: "https://github.com/Darock-Studio/DarockFoundation", from: "1.0.2"),
+        .package(url: "https://github.com/Darock-Studio/NotifKit", from: "1.0.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

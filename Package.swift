@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "DarockAccountUI", url: "https://github.com/darock-studio/darockaccountui/releases/download/1.0.1/DarockAccountUI.xcframework.zip", checksum: "d174b60526f2b1f08fa6381e06b47717e21f588d3f45cdd77838dc19e3057382"),
+        .binaryTarget(name: "DarockAccountUI", url: "https://github.com/darock-studio/darockaccountui/releases/download/1.0.2/DarockAccountUI.xcframework.zip", checksum: "908b01c67c068b75085df51e86535974ea95798c5bd6db8cbba49abf3bdf88c0"),
         .target(name: "_DarockAccountUIDependenciesWrapper", dependencies: [
             "DarockFoundation",
             "NotifKit"
